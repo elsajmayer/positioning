@@ -1,0 +1,25 @@
+.square {
+background-color: #000;
+}
+
+div [id="1"] {
+  background-color: red;
+  position: relative;
+  background-size: cover;
+  height: 100px;
+}
+
+div [id="2"] {
+  background-color: blue;
+  position: relative;
+  width: 500px;
+  height: 500px;
+  left: 50%;
+}
+
+div [id="3"] {
+  background-color: yellow;
+  position: relative;
+  background-size: cover;
+  height: 100px;
+}

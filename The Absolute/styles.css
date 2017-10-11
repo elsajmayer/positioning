@@ -1,0 +1,35 @@
+.square {
+width: 500px;
+height: 350px;
+}
+
+div [id="1"] {
+  background-color: red;
+  position: absolute;
+}
+
+div [id="2"] {
+  background-color: blue;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+div [id="3"] {
+  background-color: yellow;
+  position: absolute;
+  left: 85%;
+}
+
+div [id="4"] {
+  background-color: green;
+  position: absolute;
+  left: 85%;
+  top:85%;
+}
+
+div [id="5"] {
+  background-color: purple;
+  position: absolute;
+  top: 85%
+}

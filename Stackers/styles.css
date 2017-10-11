@@ -1,0 +1,25 @@
+.square {
+background-color: #000;
+height: 150px;
+vertical-align: top;
+width: 300px;
+zoom: 1;
+}
+
+div [id="1"] {
+  background-color: red;
+  position: relative;
+  left: 0px;
+}
+
+div [id="2"] {
+  background-color: blue;
+  position: relative;
+  left: 150px;
+}
+
+div [id="3"] {
+  background-color: yellow;
+  position: relative;
+  left: 300px;
+}

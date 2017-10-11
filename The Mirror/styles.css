@@ -1,0 +1,40 @@
+.square {
+  display: inline-block;
+}
+
+div [id="1"] {
+  background-color: red;
+  height: 400px;
+  width: 500px;
+  position: absolute;
+  z-index: 1;
+}
+
+div [id="2"] {
+  background-color: blue;
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  z-index: 2;
+  top:100px;
+  left: 100px;
+}
+
+div [id="3"] {
+  background-color: yellow;
+  height: 100px;
+  width: 200px;
+  position: absolute;
+  z-index: 3;
+  top: 150px;
+  left: 150px;
+}
+div [id="4"] {
+  background-color: green;
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  z-index: 4;
+  top: 175px;
+  left: 200px;
+}
